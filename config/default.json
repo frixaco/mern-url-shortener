@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUrl": "mongodb+srv://frixacoder:elps1kongr0@cluster0-2a05m.gcp.mongodb.net/mern_url_shortener?retryWrites=true&w=majority",
+    "JWT_SECRET": "aloha",
+    "baseURL": "http://localhost:5000"
+}
